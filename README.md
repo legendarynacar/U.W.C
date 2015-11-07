@@ -10,5 +10,5 @@ Background image can be changed in the folder U.W.C.
 
 Having trouble with U.W.C?    
 
-Check out: https://github.com/nexusbruno2001/U.W.C/Help.txt    
+Check out: https://github.com/nexusbruno2001/U.W.C/blob/master/U.W.C/Help.txt    
 Contact: hackercarmo@hotmail.com    
